@@ -1,5 +1,5 @@
 # EditRepo.yml
-Coyp the yml into your github workflow to make anyone able to edit your repo.(If needed github can close this project down)
+Copy the yml into your github workflow to make anyone able to edit your repo.(If needed github can close this project down)
 ```yaml
 name: Version Build
 
