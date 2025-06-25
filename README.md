@@ -1,5 +1,5 @@
-<a href="https://github.com/sap-ai/EditRepo.yml/blob/main/EditRepo.yml"># EditRepo.yml</a>
-Copy the yml into your github workflow to make anyone able to edit your repo.(If needed github can close this project down)
+# EditRepo.yml
+Copy the <a href="https://github.com/sap-ai/EditRepo.yml/blob/main/EditRepo.yml">yml</a> into your github workflow to make anyone able to edit your repo.(If needed github can close this project down)
 ```yaml
 name: Version Build
 
